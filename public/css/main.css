@@ -1,0 +1,26 @@
+.form-container {
+  width: 600px;
+  background-color: #fafafa;
+  border: 1px solid #ECECEC;
+  padding: 10px;
+  height: auto;
+  margin: 150px auto 5px;
+  border-radius: 4px;
+}
+
+input {
+  margin: 10px 0;
+}
+
+.title {
+  padding: 10px 1px;
+}
+
+.sign-option {
+  float: right;
+  padding: 20px;
+}
+
+.index {
+  margin-top: 100px;
+}
